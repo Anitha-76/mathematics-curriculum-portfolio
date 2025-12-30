@@ -37,7 +37,7 @@ An interactive, gamified worksheet featuring scaffolded algebra challenges acros
 
 **Design Rationale:** Reduces math anxiety through adventure narrative while providing rigorous practice. The hint system supports struggling learners without removing productive struggle.
 
-🎮 [Try the Activity](https://anitha-76.github.io/Worksheets/)
+🎮[Try the Activity](https://anitha-76.github.io/Worksheets/)
 
 ---
 
@@ -54,7 +54,7 @@ Game-based learning activity where students identify prime numbers through inter
 - Real-time feedback loop
 
 **Design Rationale:** Gamification transforms prime number practice from memorization to pattern recognition. Students build fluency through spaced repetition within engaging gameplay.
-🎮[Try this Activity](https://anitha-76.github.io/EdM-Math-Learning/Session%206/prime-number-hunt/)
+🎮 [Try this Activity](https://anitha-76.github.io/EdM-Math-Learning/Session%206/prime-number-hunt/)
 ---
 
 #### Integer Operations Space Game
@@ -69,7 +69,7 @@ Three-card matching system teaching positive and negative integers using spatial
 - Active discovery through gameplay
 
 **Design Rationale:** Spatial reasoning (vertical space) makes abstract negative numbers concrete. Matching multiple representations builds flexible mental models beyond rote memorization.
-🎮[Try this activity](https://anitha-76.github.io/EdM-Math-Learning/Session%205/SSZ/space-station-zero.html)
+🎮 [Try this activity](https://anitha-76.github.io/EdM-Math-Learning/Session%205/SSZ/space-station-zero.html)
 ---
 
 #### Number System Converter
@@ -84,7 +84,7 @@ Interactive fraction visualizer using manipulable fraction strips with instant v
 - Pattern discovery through interaction
 
 **Design Rationale:** Concrete-to-abstract progression where students physically manipulate visual models before moving to symbolic notation. Discovery-based learning reveals mathematical patterns rather than relying on memorization.
-🎮[Try this activity](https://anitha-76.github.io/EdM-Math-Learning/Week%201/number-system.html)
+🎮 [Try this activity](https://anitha-76.github.io/EdM-Math-Learning/Week%201/number-system.html)
 
 ---
 
