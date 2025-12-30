@@ -16,7 +16,7 @@ A comprehensive, inquiry-based lesson using physical fraction strips to help stu
 - Comprehensive 48-page teacher guide with materials
 
 **Created for:** EDU T543 - Applied Cognitive and Learning Sciences, Harvard GSE
-
+📄 [View Full Lesson Plan](https://github.com/Anitha-76/mathematics-curriculum-portfolio/blob/main/lesson-plans/Lesson%20Plan.pdf)
 ---
 
 ### 2. Interactive Mathematics Activities
