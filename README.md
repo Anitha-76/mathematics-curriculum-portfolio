@@ -19,7 +19,26 @@ A comprehensive, inquiry-based lesson using physical fraction strips to help stu
 📄 [View Full Lesson Plan](https://github.com/Anitha-76/mathematics-curriculum-portfolio/blob/main/lesson-plans/Lesson%20Plan.pdf)
 ---
 
-### 2. Interactive Mathematics Activities
+#### Grades 6-8 Number Systems Curriculum Framework
+**Scope and Sequence Development**
+
+A comprehensive curriculum framework mapping 8 mathematical skill areas across middle school grades with vertical alignment and standards-based learning outcomes.
+
+**Framework Components:**
+- 8 skill areas: Number Sense, Place Value & Representation, Operations, Factors & Multiples, Fractions & Decimals, Negative Numbers & Integers, Exponents & Powers, Square & Cube Roots
+- Broad Understanding Goals for each skill area
+- Grade-specific subgoals (Grades 6, 7, 8)
+- Topic mapping to curriculum standards
+- Estimated lesson pacing guide
+- Measurable learning outcomes
+
+**Design Approach:**
+Analyzed state mathematics standards to identify core concepts and progression patterns. Organized content under broad skill areas with coherent vertical alignment, ensuring systematic progression from foundational to complex applications.
+
+📄 [View Curriculum Framework](https://github.com/Anitha-76/mathematics-curriculum-portfolio/blob/main/lesson-plans/Grades_6-8_Number_Systems_Curriculum_Framework.pdf)
+
+---
+### 3. Interactive Mathematics Activities
 
 I design interactive digital activities that use game-based learning to support conceptual understanding while maintaining student engagement.
 
