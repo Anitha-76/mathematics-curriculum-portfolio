@@ -1,4 +1,10 @@
 # mathematics-curriculum-portfolio
+**Dr. Anitha M**  
+Ed.M. Candidate | Harvard Graduate School of Education  
+📧 anitha_m@gse.harvard.edu | 🔗 [LinkedIn](https://linkedin.com/in/dr-anitha)
+
+---
+
 ## Portfolio Contents
 ### 1. Research-Based Lesson Design
 
@@ -37,7 +43,7 @@ Analyzed state mathematics standards to identify core concepts and progression p
 📄 [View Curriculum Framework](https://github.com/Anitha-76/mathematics-curriculum-portfolio/blob/main/lesson-plans/Grades_6-8_Number_Systems_Curriculum_Framework.pdf)
 
 ---
-### 3. Interactive Mathematics Activities
+### 2. Interactive Mathematics Activities
 
 I design interactive digital activities that use game-based learning to support conceptual understanding while maintaining student engagement.
 
@@ -55,7 +61,7 @@ An interactive, gamified worksheet featuring scaffolded algebra challenges acros
 
 **Design Rationale:** Reduces math anxiety through adventure narrative while providing rigorous practice. The hint system supports struggling learners without removing productive struggle.
 
-🎮[Try the Activity](https://anitha-76.github.io/Worksheets/)
+🎮 [Try the Activity](https://anitha-76.github.io/Worksheets/)
 
 ---
 
