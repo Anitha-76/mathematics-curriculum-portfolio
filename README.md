@@ -54,7 +54,7 @@ Game-based learning activity where students identify prime numbers through inter
 - Real-time feedback loop
 
 **Design Rationale:** Gamification transforms prime number practice from memorization to pattern recognition. Students build fluency through spaced repetition within engaging gameplay.
-
+🎮[Try this Activity](https://anitha-76.github.io/EdM-Math-Learning/Session%206/prime-number-hunt/)
 ---
 
 #### Integer Operations Space Game
