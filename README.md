@@ -84,7 +84,7 @@ Interactive fraction visualizer using manipulable fraction strips with instant v
 - Pattern discovery through interaction
 
 **Design Rationale:** Concrete-to-abstract progression where students physically manipulate visual models before moving to symbolic notation. Discovery-based learning reveals mathematical patterns rather than relying on memorization.
-
+🎮[Try this activity](https://anitha-76.github.io/EdM-Math-Learning/Week%201/number-system.html)
 
 ---
 
